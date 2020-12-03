@@ -1,23 +1,17 @@
 # ReadingList
 
-# TODO List
 
-## 
 
 ## Conferences
+ [CVPR 2020](https://openaccess.thecvf.com/CVPR2020_search)
+ 
 
-
-<ul>
-<li>A</li>
-<li>A</li>
-<li>A</li>
-</ul>
 
 # Knowledge Distillation
 
 ## Different form of Knowledge
 
-### Logits of large deep model
+### - Logits of large deep model
 <ul>
 <li> <strong>Do deep nets really need to be deep?</strong> Ba, J., & Caruana, R. (2014). NIPS <a href="https://papers.nips.cc/paper/2014/file/ea8fcd92d59581717e06eb187f10666d-Paper.pdf">[paper]</a></li> 
 
@@ -30,12 +24,12 @@
  
 </ul>
 
-### Activation, neurons or features of Intermediate layers
+### - Activation, neurons or features of Intermediate layers
 
 
-### Relationships between Intermediate layers
+### - Relationships between Intermediate layers
 
-### Parameters of teacher model
+### - Parameters of teacher model
 
 ## Different mode of distillation
 
