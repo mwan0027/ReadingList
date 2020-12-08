@@ -97,13 +97,25 @@ Training Small, In-Domain Models for Neural Machine Translation<a href="https://
 </ul>
 
 
+<!-- #SIGIR -->
+ <strong>[SIGIR 2020](http://static.ijcai.org/2020-accepted_papers.html)</strong>
+<ul>
+<li>Differentially Private Knowledge Distillation for Mobile Analytics [short paper] <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401259"> [page]</a>
+<li>Distilling Knowledge for fast retrieval-based chat-bots [short paper]<a href="https://arxiv.org/pdf/2004.11045.pdf">[paper]</a>
+<li>A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data <a href="http://csse.szu.edu.cn/staff/panwk/publications/Conference-SIGIR-20-KDCRec.pdf">[paper]</a>
+<a href="https://github.com/dgliu/SIGIR20_KDCRec.">[code]</a>
+</ul>
+
+
 <!-- #IJCAI -->
  <strong>[IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html)</strong>
 <ul>
 <li>P-KDGAN: Progressive Knowledge Distillation with GANs for One-class Novelty Detection <a href="https://www.ijcai.org/Proceedings/2020/0448.pdf">[paper]</a>
 </ul>
 
-# Knowledge Distillation
+
+# Knowledge Distillation Survey 
+
 
 ## Different form of Knowledge
 
