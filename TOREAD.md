@@ -54,8 +54,32 @@ Reading List of recent published Knowledge-Distillation papers
 </ul>
 
 
+<!-- #AAAI -->
+ <strong>[AAAI 2020]()</strong>
+<ul>
+<li>Uncertainty-aware Multi-shot Knowledge Distillation for Image-based Object Re-identification. <a href="https://www.msra.cn/wp-content/uploads/2020/01/Uncertainty-aware-Multi-shot-Knowledge-Distillation-for-Image-based-Object-Re-identification.pdf">[paper]</a>
+<li>Towards Cross-modality Medical Image Segmentation with Online Mutual Knowledge Distillation. <a href="https://www.researchgate.net/profile/Lequan_Yu/publication/341886190_Towards_Cross-Modality_Medical_Image_Segmentation_with_Online_Mutual_Knowledge_Distillation/links/5edcb14292851c9c5e8b0b51/Towards-Cross-Modality-Medical-Image-Segmentation-with-Online-Mutual-Knowledge-Distillation.pdf">[paper]</a>
+<li>Ultrafast Video Attention Prediction with Coupled Knowledge Distillation. <a href="https://arxiv.org/pdf/1904.04449">[paper]</a>
+<li>Online Knowledge Distillation with Diverse Peers. <a href="https://www.researchgate.net/profile/Jian-Ping_Mei/publication/337413771_Online_Knowledge_Distillation_with_Diverse_Peers/links/5dd60feb458515cd48aff978/Online-Knowledge-Distillation-with-Diverse-Peers.pdf">[paper]</a>
+<li>Towards Oracle Knowledge Distillation with Neural Architecture Search. <a href="https://www.researchgate.net/profile/Lequan_Yu/publication/341886190_Towards_Cross-Modality_Medical_Image_Segmentation_with_Online_Mutual_Knowledge_Distillation/links/5edcb14292851c9c5e8b0b51/Towards-Cross-Modality-Medical-Image-Segmentation-with-Online-Mutual-Knowledge-Distillation.pdf">[paper]</a>
+<li>Knowledge Distillation from Internal Representations. <a href="https://assets.amazon.science/7a/a6/7e6c8be54bd4a9674ba3826988e3/knowledge-distillation-from-internal-rpresentations.pdf">[paper]</a>
+<li>Improved Knowledge Distillation via Teacher Assistant. <a href="https://ojs.aaai.org/index.php/AAAI/article/download/5963/5819">[paper]</a> <a href="https://imirzadeh.me/dl/TAKD_poster.pdf">[poster]</a>
+<li>Distilling portable Generative Adversarial Networks for Image Translation. <a href="https://arxiv.org/pdf/2003.03519.pdf">[paper]</a>
+<li>Look One and More: Distilling Hybrid Order Relational Knowledge for Cross-Resolution Image Recognition. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6715/6569">[paper]</a>
+<li>Learning end-to-end scene flow by distilling single tasks knowledge. <a href="https://www.researchgate.net/profile/Stefano_Mattoccia/publication/337484940_Learning_End-To-End_Scene_Flow_by_Distilling_Single_Tasks_Knowledge/links/5ddb79eda6fdccdb4462c695/Learning-End-To-End-Scene-Flow-by-Distilling-Single-Tasks-Knowledge.pdf">[paper]</a>
+<li>Few shot network compression via cross distillation. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/5718/5574">[paper]</a>
+<li>Adversarially Robust Distillation. <a href="https://ojs.aaai.org/index.php/AAAI/article/download/5816/5672">[paper]</a>
+<li>Multi-source Distilling Domain Adaptation. [TBD]<a href="https://ojs.aaai.org/index.php/AAAI/article/view/6997/6851">[paper]</a>
+<li>Long Short-Term Sample Distillation. <a href="https://arxiv.org/pdf/2003.00739.pdf">[paper]</a>
+<li> Scalable Attentive Sentence-Pair Modeling via Distilled Sentence Embedding. <a href="https://arxiv.org/pdf/1908.05161.pdf">[paper]</a>
+<li>Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction. <a href="https://arxiv.org/pdf/1908.05161">[paper]</a>
+<li>Hearing Lips: Improving Lip Reading by Distilling Speech Recognizers. <a href="https://www.researchgate.net/profile/Xinchao_Wang/publication/337560210_Hearing_Lips_Improving_Lip_Reading_by_Distilling_Speech_Recognizers/links/5e2fc35992851c9af729e6fe/Hearing-Lips-Improving-Lip-Reading-by-Distilling-Speech-Recognizers.pdf">[paper]</a>
+<li>Filtration and Distillation: Enhancing Region Attention for Fine-Grained Visual Categorization. <a href="https://ojs.aaai.org/index.php/AAAI/article/download/6822/6676">[paper]</a>
+</ul>
 
-<!-- #IJCAi -->
+
+
+<!-- #IJCAI -->
  <strong>[IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html)</strong>
 <ul>
 <li>P-KDGAN: Progressive Knowledge Distillation with GANs for One-class Novelty Detection <a href="https://www.ijcai.org/Proceedings/2020/0448.pdf">[paper]</a>
