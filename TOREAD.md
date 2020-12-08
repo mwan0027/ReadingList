@@ -1,8 +1,8 @@
 # To-Do: ReadingList
 
 
-
 ## Conferences
+<!-- CVPR -->
  [CVPR 2020](https://openaccess.thecvf.com/CVPR2020_search)
  
  <ul>
@@ -21,6 +21,19 @@
  <li>Block-Wisely Supervised Neural Architecture Search With Knowledge Distillation<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Block-Wisely_Supervised_Neural_Architecture_Search_With_Knowledge_Distillation_CVPR_2020_paper.pdf">[paper]</a><a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Block-Wisely_Supervised_Neural_CVPR_2020_supplemental.pdf">[supp]</a> <a href="https://www.youtube.com/watch?v=DCBYhdCPpoA">[video]</a> 
  </ul>
 
+
+
+<!-- #ICLR -->
+ [ICLR 2020](https://iclr.cc/virtual_2020/papers.html?filter=keywords&search=knowledge+distillation)
+
+<ul>
+<li>Neural Epitome Search for Architecture-Agnostic Network Compression <a href="https://openreview.net/pdf?id=HyxjOyrKvr">[paper]</a>
+<li>Contrastive Representation Distillation<a href="http://www.openreview.net/pdf?id=SkgpBJrtvS">[paper]</a><a href="https://github.com/HobbitLong/RepDistiller">[code]</a>
+<li>Ensemble Distribution Distillation<a href="http://www.openreview.net/pdf?id=BygSP6Vtvr">[paper]</a>
+<li>Understanding Knowledge Distillation in Non-autoregressive Machine Translation<a href="http://www.openreview.net/pdf?id=BygFVAEKDH">[paper]</a>
+<li>Neural Epitome Search for Architecture-Agnostic Network Compression<a href="http://www.openreview.net/pdf?id=HyxjOyrKvr">[paper]</a>
+
+</ul>
 
 
 
