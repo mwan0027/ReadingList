@@ -4,7 +4,7 @@ Reading List of recent published Knowledge-Distillation papers
 
 ## Conferences
 <!-- CVPR -->
- [CVPR 2020](https://openaccess.thecvf.com/CVPR2020_search)
+ <strong>[CVPR 2020](https://openaccess.thecvf.com/CVPR2020_search)</strong>
  
  <ul>
  <li>Spatio-Temporal Graph for Video Captioning With Knowledge Distillation <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf">[paper]</a>
@@ -25,7 +25,7 @@ Reading List of recent published Knowledge-Distillation papers
 
 
 <!-- #ICLR -->
- [ICLR 2020](https://iclr.cc/virtual_2020/papers.html?filter=keywords&search=knowledge+distillation)
+ <strong>[ICLR 2020](https://iclr.cc/virtual_2020/papers.html?filter=keywords&search=knowledge+distillation)</strong>
 
 <ul>
 <li>Neural Epitome Search for Architecture-Agnostic Network Compression <a href="https://openreview.net/pdf?id=HyxjOyrKvr">[paper]</a>
@@ -38,7 +38,7 @@ Reading List of recent published Knowledge-Distillation papers
 
 
 <!-- #EMNLP -->
- [EMNLP 2020](https://2020.emnlp.org/papers/main)
+ <strong>[EMNLP 2020](https://2020.emnlp.org/papers/main)</strong>
 <ul>
 <li>FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction.<a href="https://www.aclweb.org/anthology/2020.emnlp-main.165.pdf">[paper]</a>
 <li>Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation. <a href="https://arxiv.org/pdf/2004.09813">[paper]</a>
@@ -56,7 +56,7 @@ Reading List of recent published Knowledge-Distillation papers
 
 
 <!-- #IJCAi -->
- [IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html)
+ <strong>[IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html)</strong>
 <ul>
 <li>P-KDGAN: Progressive Knowledge Distillation with GANs for One-class Novelty Detection <a href="https://www.ijcai.org/Proceedings/2020/0448.pdf">[paper]</a>
 </ul>
