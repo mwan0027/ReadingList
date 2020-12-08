@@ -2,7 +2,7 @@
 
 Reading List of recent published Knowledge-Distillation papers
 
-## Conferences
+## Knowledge Distillation
 <!-- CVPR -->
  <strong>[CVPR 2020](https://openaccess.thecvf.com/CVPR2020_search)</strong>
  
@@ -111,6 +111,14 @@ Training Small, In-Domain Models for Neural Machine Translation<a href="https://
  <strong>[IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html)</strong>
 <ul>
 <li>P-KDGAN: Progressive Knowledge Distillation with GANs for One-class Novelty Detection <a href="https://www.ijcai.org/Proceedings/2020/0448.pdf">[paper]</a>
+</ul>
+
+## Federated Learning
+
+<!-- #IEEE -->
+ <strong>[IEEE ICKG 2020](http://ickg2020.bigke.org/)</strong>
+<ul>
+<li>Knowledge Federation: A Unified and Hierarchical Privacy-Preserving AI Framework <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194566">[paper]</a>
 </ul>
 
 
