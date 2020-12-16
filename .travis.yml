@@ -1,0 +1,21 @@
+sudo: required
+language: generic
+
+services:
+  - docker
+
+# 2. build image using Dockerfile.dev
+before_install:
+  - docker build -t wayne/reading-list .
+
+deploy:
+  provider: elasticbeanstalk
+  region: 'ap-southeast-2'
+  app: 'reading-list'
+  env: 'readinglist-env'
+  bucket_name: 'elasticbeanstalk-ap-southeast-2-573682342502'
+  bucket_path: 'docker'
+  on:
+    branch: main
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
