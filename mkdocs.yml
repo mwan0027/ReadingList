@@ -1,0 +1,23 @@
+site_name: My Docs
+
+nav:
+  - "Get Started":
+      - "About": 'index.md'
+  - 'Federated Learning':
+      - 'IEEE':
+          - '2020': 'FL/fl.md'
+  - 'Knowledge Distillation':
+      - 'AAAI':
+          - '2020': 'KD/AAAI/aaai2020.md'
+      - 'ACL':
+          - '2020': 'KD/ACL/acl2020.md'
+      - 'EMNLP':
+          - '2020': 'KD/EMNLP/emnlp2020.md'
+      - 'ICLR':
+          - '2020': 'KD/ICLR/iclr2020.md'
+      - 'CVPR':
+          - '2020': 'KD/CVPR/cvpr2020.md'
+      - 'KD_Survey Paper Collection':
+          - 'KD Survey(Gou et. al, 2020)': 'KD/KD_Survey/kdsurvey2020.md'
+theme:
+  readthedocs
