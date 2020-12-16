@@ -20,4 +20,4 @@ nav:
       - 'KD_Survey Paper Collection':
           - 'KD Survey(Gou et. al, 2020)': 'KD/KD_Survey/kdsurvey2020.md'
 theme:
-  readthedocs
+  material

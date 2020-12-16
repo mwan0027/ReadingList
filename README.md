@@ -1,6 +1,7 @@
-# To-Do: ReadingList
+# About
 
 Reading List of recent published Knowledge-Distillation papers
+# Read [Online Version](http://readinglist-env.eba-wijgagmm.ap-southeast-2.elasticbeanstalk.com/)
 
 # How to Run this project
 <ul>
@@ -162,8 +163,10 @@ Training Small, In-Domain Models for Neural Machine Translation<a href="https://
     patient data<a href="https://www.nature.com/articles/s41598-020-69250-1">[article]</a>
 </ul>
 
+<hr/>
+<hr/>
 
-# Knowledge Distillation Survey Paper List
+# To-Do: Knowledge Distillation Survey Paper List
 
 ## Different form of Knowledge
 
