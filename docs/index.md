@@ -17,4 +17,3 @@ Reading List of recent published Knowledge-Distillation papers
         <code>mkdocs serve</code>
     </li>
 </ul>
-## [Visit Doc.](http://127.0.0.1:8000/)
