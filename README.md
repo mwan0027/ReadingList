@@ -84,8 +84,6 @@ Training Small, In-Domain Models for Neural Machine Translation<a href="https://
  <li>Block-Wisely Supervised Neural Architecture Search With Knowledge Distillation<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Block-Wisely_Supervised_Neural_Architecture_Search_With_Knowledge_Distillation_CVPR_2020_paper.pdf">[paper]</a><a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Block-Wisely_Supervised_Neural_CVPR_2020_supplemental.pdf">[supp]</a> <a href="https://www.youtube.com/watch?v=DCBYhdCPpoA">[video]</a> 
  </ul>
 
- ## TODO
-
 
 <!-- #SIGIR -->
  <strong>[SIGIR 2020](http://static.ijcai.org/2020-accepted_papers.html)</strong>
