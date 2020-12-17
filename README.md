@@ -133,8 +133,26 @@ Training Small, In-Domain Models for Neural Machine Translation<a href="https://
 <li>Ensemble Distribution Distillation<a href="http://www.openreview.net/pdf?id=BygSP6Vtvr">[paper]</a>
 <li>Understanding Knowledge Distillation in Non-autoregressive Machine Translation<a href="http://www.openreview.net/pdf?id=BygFVAEKDH">[paper]</a>
 <li>Neural Epitome Search for Architecture-Agnostic Network Compression<a href="http://www.openreview.net/pdf?id=HyxjOyrKvr">[paper]</a>
-
 </ul>
+
+
+<strong>[NIPS 2020](https://papers.nips.cc/paper/2020)</strong>
+<ul>
+<li>Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher <a href="https://papers.nips.cc/paper/2020/file/ef0d3930a7b6c95bd2b32ed45989c61f-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/ef0d3930a7b6c95bd2b32ed45989c61f-Supplemental.zip">[supp]</a>
+<li>Task-Oriented Feature Distillation <a href="https://papers.nips.cc/paper/2020/file/a96b65a721e561e1e3de768ac819ffbb-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/a96b65a721e561e1e3de768ac819ffbb-Supplemental.zip">[supp]</a>
+<li>Kernel Based Progressive Distillation for Adder Neural Networks <a href="https://papers.nips.cc/paper/2020/file/912d2b1c7b2826caf99687388d2e8f7c-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/912d2b1c7b2826caf99687388d2e8f7c-Supplemental.pdf">[supp]</a>
+<li>Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection<a href="https://papers.nips.cc/paper/2020/file/c3535febaff29fcb7c0d20cbe94391c7-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/c3535febaff29fcb7c0d20cbe94391c7-Supplemental.pdf">[supp]</a>
+<li>Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search<a href="https://papers.nips.cc/paper/2020/file/d072677d210ac4c03ba046120f0802ec-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/d072677d210ac4c03ba046120f0802ec-Supplemental.pdf">[supp]</a>
+<li>Self-Distillation Amplifies Regularization in Hilbert Space<a href="https://papers.nips.cc/paper/2020/file/2288f691b58edecadcc9a8691762b4fd-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/2288f691b58edecadcc9a8691762b4fd-Supplemental.zip">[supp]</a>
+<li>MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers<a href="https://papers.nips.cc/paper/2020/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/3f5ee243547dee91fbd053c1c4a845aa-Supplemental.pdf">[supp]</a>
+<li>Self-Distillation as Instance-Specific Label Smoothing<a href="https://papers.nips.cc/paper/2020/file/1731592aca5fb4d789c4119c65c10b4b-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/1731592aca5fb4d789c4119c65c10b4b-Supplemental.pdf">[supp]</a>
+<li>Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space <a href="https://papers.nips.cc/paper/2020/file/91c77393975889bd08f301c9e13a44b7-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/91c77393975889bd08f301c9e13a44b7-Supplemental.pdf">[supp]</a>
+<li>Distributed Distillation for On-Device Learning<a href="https://papers.nips.cc/paper/2020/file/fef6f971605336724b5e6c0c12dc2534-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/fef6f971605336724b5e6c0c12dc2534-Supplemental.pdf">[supp]</a>
+<li>Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts<a href="https://papers.nips.cc/paper/2020/file/657b96f0592803e25a4f07166fff289a-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/657b96f0592803e25a4f07166fff289a-Supplemental.zip">[supp]</a>
+<li>Ensemble Distillation for Robust Model Fusion in Federated Learning<a href="https://papers.nips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Supplemental.pdf">[supp]</a>
+<li>Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation<a href="https://papers.nips.cc/paper/2020/file/62d75fb2e3075506e8837d8f55021ab1-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/62d75fb2e3075506e8837d8f55021ab1-Supplemental.zip">[supp]</a>
+</ul>
+
 
 ## Federated Learning
 <strong>[IEEE ICKG 2020](http://ickg2020.bigke.org/)</strong>
