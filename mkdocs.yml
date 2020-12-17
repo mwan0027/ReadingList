@@ -17,6 +17,10 @@ nav:
           - '2020': 'KD/ICLR/iclr2020.md'
       - 'CVPR':
           - '2020': 'KD/CVPR/cvpr2020.md'
+      - 'NIPS':
+          - '2020': 'KD/NIPS/nips2020.md'
+          - '2018': 'KD/NIPS/nips2018.md'
+          - '2017': 'KD/NIPS/nips2017.md'
       - 'KD_Survey Paper Collection':
           - 'KD Survey(Gou et. al, 2020)': 'KD/KD_Survey/kdsurvey2020.md'
 theme:

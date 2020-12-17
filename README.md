@@ -1,7 +1,7 @@
 # About
 
 Reading List of recent published Knowledge-Distillation papers
-# Read [Online Version](http://readingpapers.academy/)
+# Read [Online Version](https://readingpapers.academy/)
 
 # How to Run this project
 <ul>
