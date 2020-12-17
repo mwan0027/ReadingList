@@ -1,8 +1,7 @@
-site_name: My Docs
+site_name: Knowledge Distillation & Federated Learning
 
 nav:
-  - "Get Started":
-      - "About": 'index.md'
+  - "Get Started": 'index.md'
   - 'Federated Learning':
       - 'IEEE':
           - '2020': 'FL/fl.md'
@@ -21,7 +20,7 @@ nav:
           - '2020': 'KD/NIPS/nips2020.md'
           - '2018': 'KD/NIPS/nips2018.md'
           - '2017': 'KD/NIPS/nips2017.md'
-      - 'KD_Survey Paper Collection':
+      - 'Survey Paper Collection':
           - 'KD Survey(Gou et. al, 2020)': 'KD/KD_Survey/kdsurvey2020.md'
 theme:
   material
