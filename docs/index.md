@@ -1,6 +1,12 @@
 # To-Do: ReadingList
 
-Reading List of recent published Knowledge-Distillation papers
+Reading List of recent published Knowledge-Distillation, Federated-Learning papers
+
+### Resources:
+- [Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
+
+- [Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
+</ul>
 
 # How to Run this project
 <ul>

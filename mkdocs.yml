@@ -1,10 +1,16 @@
 site_name: Knowledge Distillation & Federated Learning
 
+site_url: https://readingpapers.academy
+repo_name: 'mwan0027/ReadingList'
+repo_url: https://github.com/mwan0027/ReadingList.git
+
 nav:
   - "Get Started": 'index.md'
   - 'Federated Learning':
       - 'IEEE':
-          - '2020': 'FL/fl.md'
+          - '2020': 'FL/IEEE/ieee.md'
+      - 'FD_ED_KD': 'FL/FL_KD/flkd.md'
+      - 'Survey Paper Collection': 'FL/flsurvey.md'
   - 'Knowledge Distillation':
       - 'AAAI':
           - '2020': 'KD/AAAI/aaai2020.md'
@@ -16,6 +22,8 @@ nav:
           - '2020': 'KD/ICLR/iclr2020.md'
       - 'CVPR':
           - '2020': 'KD/CVPR/cvpr2020.md'
+      - 'ICML':
+          - '2020': 'KD/ICML/icml2020.md'          
       - 'NIPS':
           - '2020': 'KD/NIPS/nips2020.md'
           - '2018': 'KD/NIPS/nips2018.md'

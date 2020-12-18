@@ -153,6 +153,20 @@ Training Small, In-Domain Models for Neural Machine Translation<a href="https://
 
 
 ## Federated Learning
+
+### FD ML crossfield
+<li>Fedmd: Heterogenous federated learning via model distillation<a href="https://arxiv.org/pdf/1910.03581">[paper]</a>
+<li>Communication-efficient on-device machine learning: Federated distillation and augmentation under non-iid private data<a href="https://arxiv.org/pdf/1811.11479">[paper]</a>
+<li>Ensemble distillation for robust model fusion in federated learning<a href="https://papers.nips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Supplemental.pdf">[paper]</a>
+<li>Wireless federated distillation for distributed edge learning with heterogeneous data<a href="https://arxiv.org/pdf/1907.02745">[paper]</a>
+<li>Federated Knowledge Distillation (???)<a href="https://arxiv.org/pdf/2011.02367.pdf">[paper]</a>
+<li>Federated Learning with Heterogeneous Labels and Models for Mobile Activity Monitoring<a href="https://arxiv.org/pdf/2012.02539">[paper]</a>
+<li>Hierarchical federated learning across heterogeneous cellular networks<a href="https://arxiv.org/pdf/1909.02362">[paper]</a>
+<li>Federated Mutual Learning<a href="https://arxiv.org/pdf/2006.16765">[paper]</a>
+<li>Model pruning enables efficient federated learning on edge devices<a href="https://arxiv.org/pdf/1909.12326">[paper]</a>
+</ul>
+
+### IEEE
 <strong>[IEEE ICKG 2020](http://ickg2020.bigke.org/)</strong>
 <ul>
 <li>Knowledge Federation: A Unified and Hierarchical Privacy-Preserving AI Framework <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194566">[paper]</a>
@@ -163,20 +177,35 @@ Training Small, In-Domain Models for Neural Machine Translation<a href="https://
 <li>Federated Learning: Challenges, Methods, and Future Directions<a href="https://ieeexplore.ieee.org/abstract/document/9084352">[paper]</a>
 </ul>
 
- <strong>[ACM TIST 2019](https://dl.acm.org/journal/tist)</strong>
+ <strong>[IEEE Transactions on Parallel and Distributed Systems 2020](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)</strong>
 <ul>
-<li>Federated Machine Learning: Concept and Applications <a href="http://sites.nlsde.buaa.edu.cn/~yxtong/tist_fl.pdf">[paper]</a>
+<li>Mutual Information Driven Federated Learning<a href="https://ieeexplore.ieee.org/abstract/document/9272656">[paper]</a>
 </ul>
 
 
+### Surveys
+<strong>[ACM TIST 2019](https://dl.acm.org/journal/tist)</strong>
+<ul>
+<li>Federated Machine Learning: Concept and Applications <a href="http://sites.nlsde.buaa.edu.cn/~yxtong/tist_fl.pdf">[paper]</a>
+
+<li>A survey on security and privacy of federated learning <a href="https://www.sciencedirect.com/science/article/pii/S0167739X20329848">[paper]</a>
+</ul>
+
+<ul>
+<li>Generalizing from a few examples: A survey on few-shot learning (CSUR 2020) <a href="https://arxiv.org/pdf/1904.05046">[paper]</a>
+
+<li> [IEEE Communications Surveys & Tutorials 2019] Federated learning in mobile edge networks: A comprehensive survey <a href="https://arxiv.org/pdf/1909.11875">[paper]</a>
+
+<li> [IEEE, 2020] Federated learning: A survey on enabling technologies, protocols, and applications <a href="https://ieeexplore.ieee.org/iel7/6287639/8948470/09153560.pdf">[paper]</a>
+
+<li>From Federated Learning to Federated Neural Architecture Search: A Survey <a href="https://arxiv.org/pdf/2009.05868">[paper]</a>
+
+</ul>
 
 ### Applications:
 <ul>
-    <li>A review of applications in federated learning<a href="https://www.sciencedirect.com/science/article/pii/S0360835220305532">[paper]</a>
-    <li>Federated learning in medicine:
-    facilitating multi‑institutional
-    collaborations without sharing
-    patient data<a href="https://www.nature.com/articles/s41598-020-69250-1">[article]</a>
+<li>A review of applications in federated learning<a href="https://www.sciencedirect.com/science/article/pii/S0360835220305532">[paper]</a>
+<li>Federated learning in medicine: facilitating multi‑institutional collaborations without sharing patient data<a href="https://www.nature.com/articles/s41598-020-69250-1">[article]</a>
 </ul>
 
 <hr/>
