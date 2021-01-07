@@ -1,4 +1,4 @@
-<h1>Knowledge Distillation Survey Paper List</h1>
+<h1>Knowledge Distillation Survey Paper_List</h1>
 
 ## Different form of Knowledge
 

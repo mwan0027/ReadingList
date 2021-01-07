@@ -1,5 +1,6 @@
 site_name: Knowledge Distillation & Federated Learning
-
+use_directory_urls: true
+edit_uri: ''
 site_url: https://readingpapers.academy
 repo_name: 'mwan0027/ReadingList'
 repo_url: https://github.com/mwan0027/ReadingList.git
@@ -9,7 +10,7 @@ nav:
   - 'Federated Learning':
       - 'IEEE':
           - '2020': 'FL/IEEE/ieee.md'
-      - 'FD_ED_KD': 'FL/FL_KD/flkd.md'
+      - 'FD & ED & KD': 'FL/FL_KD/flkd.md'
       - 'Survey Paper Collection': 'FL/flsurvey.md'
   - 'Knowledge Distillation':
       - 'AAAI':
