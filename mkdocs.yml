@@ -15,6 +15,7 @@ nav:
   - 'Knowledge Distillation':
       - 'AAAI':
           - '2020': 'KD/AAAI/aaai2020.md'
+          - '2021': 'KD/AAAI/aaai2021.md'
       - 'ACL':
           - '2020': 'KD/ACL/acl2020.md'
       - 'EMNLP':

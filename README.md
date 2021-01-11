@@ -24,6 +24,31 @@ Reading List of recent published Knowledge-Distillation papers
 
 ## Knowledge Distillation
 
+<strong>[AAAI 2021](https://aaai.org/Conferences/AAAI-21/)</strong>
+<ul>
+<li>PSSM-Distil: Protein Secondary Structure Prediction (PSSP) on Low-Quality PSSM by Knowledge Distillation with Contrastive Learning. <a href="">[paper]</a>
+<li>Probing Product Description Generation via Posterior Distillation <a href="">[paper]</a>
+<li>LRC-BERT: Latent-Representation Contrastive Knowledge Distillation for Natural Language Understanding<a href="">[paper]</a>
+<li>Peer Collaborative Learning for Online Knowledge Distillation<a href="">[paper]</a>
+<li>Cross-Layer Distillation with Semantic Calibration<a href="">[paper]</a>
+<li>Few-Shot Class-Incremental Learning via Relation Knowledge Distillation<a href="">[paper]</a>
+<li> Harmonized Dense Knowledge Distillation Training for Multi-Exit Architectures<a href="">[paper]</a>
+<li>Universal Trading for Order Execution with Oracle Policy Distillation<a href="">[paper]</a>
+<li>Diverse Knowledge Distillation for End-to-End Person Search<a href="">[paper]</a>
+<li>Distilling Localization for Self-Supervised Representation Learning<a href="">[paper]</a>
+<li>Learning to Augment for Data-Scarce Domain BERT Knowledge Distillation<a href="">[paper]</a>
+<li>Multi-View Feature Representation for Dialogue Generation with Bidirectional Distillation<a href="">[paper]</a>
+<li> Data-Free Knowledge Distillation with Soft Targeted Transfer Set Synthesis<a href="">[paper]</a>
+<li> ALP-KD: Attention-Based Layer Projection for Knowledge Distillation<a href="">[paper]</a>
+<li>Progressive Network Grafting for Few-Shot Knowledge Distillation<a href="">[paper]</a>
+<li> Show, Attend and Distill: Knowledge Distillation via Attention-Based Feature Matching<a href="">[paper]</a>
+<li>Anytime Inference with Distilled Hierarchical Neural Ensembles<a href="">[paper]</a>
+<li>Stochastic Precision Ensemble: Self-Knowledge Distillation for Quantized Deep Neural Networks<a href="">[paper]</a>
+<li>Reinforced Multi-Teacher Selection for Knowledge Distillation<a href="">[paper]</a>
+<li> Deep Contextual Clinical Prediction with Reverse Distillation<a href="">[paper]</a>
+
+</ul>
+
 <strong>[AAAI 2020](https://aaai.org/Conferences/AAAI-20/)</strong>
 <ul>
 <li>Uncertainty-aware Multi-shot Knowledge Distillation for Image-based Object Re-identification. <a href="https://www.msra.cn/wp-content/uploads/2020/01/Uncertainty-aware-Multi-shot-Knowledge-Distillation-for-Image-based-Object-Re-identification.pdf">[paper]</a>
