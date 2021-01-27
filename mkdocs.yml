@@ -21,6 +21,7 @@ nav:
       - 'EMNLP':
           - '2020': 'KD/EMNLP/emnlp2020.md'
       - 'ICLR':
+          - '2021': 'KD/ICLR/iclr2021.md'
           - '2020': 'KD/ICLR/iclr2020.md'
       - 'CVPR':
           - '2020': 'KD/CVPR/cvpr2020.md'
@@ -28,6 +29,7 @@ nav:
           - '2020': 'KD/ICML/icml2020.md'          
       - 'NIPS':
           - '2020': 'KD/NIPS/nips2020.md'
+          - '2019': 'KD/NIPS/nips2019.md'
           - '2018': 'KD/NIPS/nips2018.md'
           - '2017': 'KD/NIPS/nips2017.md'
       - 'Survey Paper Collection':

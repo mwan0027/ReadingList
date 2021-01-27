@@ -24,8 +24,16 @@
 <li>HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients <a href="https://openreview.net/pdf?id=TNkPBBYFkXg">[paper]</a>
 <li>Personalized Federated Learning with First Order Model Optimization<a href="https://openreview.net/pdf?id=ehJqJQk9cw">[paper]</a>
 
+<strong>FL interesting framework</strong>
+<li>:star:Split learning for health: Distributed deep learning without sharing raw patient data <a href="https://proceedings.neurips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf">[paper]</a>
 
+<li>:star:Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge <a href="https://proceedings.neurips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf">[paper]</a>
 
+<li>Split learning for collaborative deep learning in healthcare<a href="https://arxiv.org/pdf/1912.12115">[paper]</a>
+
+<li>Splitfed: When federated learning meets split learning<a href="https://arxiv.org/pdf/2004.12088">[paper]</a>
+
+<li>Detailed comparison of communication efficiency of split learning and federated learning <a href="https://arxiv.org/pdf/1909.09145">[paper]</a>
 
 
 </ul>
