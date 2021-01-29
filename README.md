@@ -240,7 +240,7 @@ Language Processing<a href="https://www.aclweb.org/anthology/2020.acl-demos.2.pd
 <ul>
 <li>:star2:Advances and Open Problems in Federated Learning<a href="https://arxiv.org/pdf/1912.04977">[paper]</a>
 
-<li>:star:Split learning for health: Distributed deep learning without sharing raw patient data <a href="https://proceedings.neurips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf">[paper]</a>
+<li>:star:Split learning for health: Distributed deep learning without sharing raw patient data <a href="https://arxiv.org/pdf/1812.00564.pdf">[paper]</a>
 
 <li>:star:Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge <a href="https://proceedings.neurips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf">[paper]</a>
 
