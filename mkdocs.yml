@@ -24,6 +24,7 @@ nav:
           - '2021': 'KD/ICLR/iclr2021.md'
           - '2020': 'KD/ICLR/iclr2020.md'
       - 'CVPR':
+          - '2021': 'KD/CVPR/cvpr2021.md'
           - '2020': 'KD/CVPR/cvpr2020.md'
       - 'ICML':
           - '2020': 'KD/ICML/icml2020.md'          

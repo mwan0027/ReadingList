@@ -22,7 +22,7 @@ Reading Completion:
 | NIPS       |  NA                   |  [NIPS2020](#NIPS-2020) | [NIPS2019](#NIPS-2019)  |   |
 | EMNLP      |  NA                   |  [EMNLP2020](#EMNLP-2020) |   |   |
 | ECCV       |  TBD                  |  [ECCV2020](#ECCV-2020) |   |   |
-| CVPR       |  TBD                  |  [CVPR2020](#CVPR-2020) |   |   |
+| CVPR       | [CVPR2021](#CVPR-2021)|  [CVPR2020](#CVPR-2020) |   |   |
 
 # How to Run this project
 <ul>
@@ -44,6 +44,18 @@ Reading Completion:
 
 
 ## Knowledge Distillation
+
+### [CVPR 2021](http://cvpr2021.thecvf.com/)
+ <ul>
+    <li>Data-Free Knowledge Distillation For Image Super-Resolution<a href="">[paper]</a>
+    <li>There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge<a href="">[paper_tobe_updated]</a><a href="https://rl.uni-freiburg.de/">[project]</a> 
+    <li>General Instance Distillation for Object Detection<a href="https://arxiv.org/abs/2103.02340">[paper]</a>
+    <li>Distilling Object Detectors via Decoupled Features <a href="">[paper_tobe_updated]</a>
+    <li>Multiresolution Knowledge Distillation for Anomaly Detectio<a href="https://arxiv.org/abs/2011.11108">[paper]</a>
+    <li>[WACV2021]Data-free Knowledge Distillation for Object Detection<a href="https://openaccess.thecvf.com/content/WACV2021/papers/Chawla_Data-Free_Knowledge_Distillation_for_Object_Detection_WACV_2021_paper.pdf">[paper]</a>
+</ul>
+
+
 
 ### [ICLR 2021](https://iclr.cc/)
 
