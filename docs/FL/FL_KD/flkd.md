@@ -10,6 +10,9 @@
 <li>Federated Mutual Learning<a href="https://arxiv.org/pdf/2006.16765">[paper]</a>
 <li>Model pruning enables efficient federated learning on edge devices<a href="https://arxiv.org/pdf/1909.12326">[paper]</a>
 
+<strong>FL on [CVPR 2021](http://cvpr2021.thecvf.com/)</strong>
+
+<li>Model-Contrastive Federated Learning<a href="">[paper_tobe_updated]</a>
 
 <strong>FL on [ICLR 2021](https://iclr.cc/)</strong>
 
