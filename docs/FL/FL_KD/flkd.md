@@ -40,3 +40,13 @@
 
 
 </ul>
+
+<strong>FL on [ICML 2020](https://icml.cc/virtual/2020/)</strong>
+<ul>
+<li>Federated Learning with Only Positive Labels<a href="http://proceedings.mlr.press/v119/yu20f/yu20f.pdf">[paper]</a>
+<li>FetchSGD: Communication-Efficient Federated Learning with Sketching<a href="http://proceedings.mlr.press/v119/rothchild20a/rothchild20a.pdf">[paper]</a>
+<li>SCAFFOLD: Stochastic Controlled Averaging for Federated Learning<a href="http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf">[paper]</a>
+<li>From Local SGD to Local Fixed-Point Methods for Federated Learning<a href="http://proceedings.mlr.press/v119/malinovskiy20a/malinovskiy20a.pdf">[paper]</a>
+<li>FedBoost: A Communication-Efficient Algorithm for Federated Learning<a href="http://proceedings.mlr.press/v119/hamer20a/hamer20a.pdf">[paper]</a>
+
+</ul>

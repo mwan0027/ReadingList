@@ -23,6 +23,7 @@ Reading Completion:
 | EMNLP      |  NA                   |  [EMNLP2020](#EMNLP-2020) |   |   |
 | ECCV       |  TBD                  |  [ECCV2020](#ECCV-2020) |   |   |
 | CVPR       | [CVPR2021](#CVPR-2021)|  [CVPR2020](#CVPR-2020) |   |   |
+| ICML       | NA |  [ICML2020](#ICML-2020) |   |   |
 
 # How to Run this project
 <ul>
@@ -48,7 +49,7 @@ Reading Completion:
 ### [CVPR 2021](http://cvpr2021.thecvf.com/)
  <ul>
     <li>Data-Free Knowledge Distillation For Image Super-Resolution<a href="">[paper]</a>
-    <li>There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge<a href="">[paper_tobe_updated]</a><a href="https://rl.uni-freiburg.de/">[project]</a> 
+    <li>There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge<a href="https://arxiv.org/pdf/2103.01353">[paper]</a><a href="https://rl.uni-freiburg.de/">[project]</a> 
     <li>General Instance Distillation for Object Detection<a href="https://arxiv.org/abs/2103.02340">[paper]</a>
     <li>Distilling Object Detectors via Decoupled Features <a href="">[paper_tobe_updated]</a>
     <li>Multiresolution Knowledge Distillation for Anomaly Detectio<a href="https://arxiv.org/abs/2011.11108">[paper]</a>
@@ -62,12 +63,12 @@ Reading Completion:
 <ul>
 <li>Undistillable: Making A Nasty Teacher That CANNOT teach students <a href="https://openreview.net/pdf?id=0zvfm-nZqQs">[paper]</a> :heavy_check_mark: 
 <li>Generalization bounds via distillation<a href="https://openreview.net/pdf?id=EGdFhBzmAwB">[paper]</a>
-<li>MixKD: Towards Efficient Distillation of Large-scale Language Models<a href="https://openreview.net/pdf?id=UFGEelJkLu5">[paper]</a>
+<li>MixKD: Towards Efficient Distillation of Large-scale Language Models<a href="https://openreview.net/pdf?id=UFGEelJkLu5">[paper]</a> :heavy_check_mark:
 <li>Knowledge distillation via softmax regression representation learning<a href="https://openreview.net/pdf?id=ZzwDy_wiWv">[paper]</a>
 <li>Improve Object Detection with Feature-based Knowledge Distillation: Towards Accurate and Efficient Detectors<a href="https://openreview.net/pdf?id=uKhGRvM8QNH">[paper]</a>
 <li>SEED: Self-supervised Distillation For Visual Representation<a href="https://openreview.net/pdf?id=AHm3dbp7D1D">[paper]</a>
 <li>Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks <a href="https://openreview.net/pdf?id=9l0K4OM-oXE">[paper]</a>
-<li>istilling Knowledge from Reader to Retriever for Question Answering<a href="https://openreview.net/pdf?id=NTEz-6wysdb">[paper]</a>
+<li>Distilling Knowledge from Reader to Retriever for Question Answering<a href="https://openreview.net/pdf?id=NTEz-6wysdb">[paper]</a>
 <li>Rethinking Soft Labels for Knowledge Distillation: A Bias–Variance Tradeoff Perspective<a href="https://openreview.net/pdf?id=gIHd-5X324">[paper]</a>
 <li>Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study<a href="https://openreview.net/pdf?id=PObuuGVrGaZ">[paper]</a>
 <li>Knowledge Distillation as Semiparametric Inference<a href="https://openreview.net/pdf?id=m4UCf24r0Y">[paper]</a>
@@ -86,12 +87,12 @@ Reading Completion:
 <li>Universal Trading for Order Execution with Oracle Policy Distillation<a href="">[paper_ToBeUpdate]</a>
 <li>Diverse Knowledge Distillation for End-to-End Person Search<a href="https://arxiv.org/pdf/2012.11187">[paper]</a>
 <li>Distilling Localization for Self-Supervised Representation Learning<a href="https://arxiv.org/pdf/2004.06638">[paper]</a>
-<li>Learning to Augment for Data-Scarce Domain BERT Knowledge Distillation<a href="">[paper_ToBeUpdate]</a>
+<li>Learning to Augment for Data-Scarce Domain BERT Knowledge Distillation<a href="https://arxiv.org/pdf/2101.08106">[paper]</a>
 <li>Multi-View Feature Representation for Dialogue Generation with Bidirectional Distillation<a href="https://jklj077.github.io/publication/aaai2021-multiview/">[paper_ToBeUpdate]</a>
 <li> Data-Free Knowledge Distillation with Soft Targeted Transfer Set Synthesis<a href="">[paper_ToBeUpdate]</a>
 <li> ALP-KD: Attention-Based Layer Projection for Knowledge Distillation<a href="https://arxiv.org/pdf/2012.14022">[paper]</a>
 <li>Progressive Network Grafting for Few-Shot Knowledge Distillation<a href="https://arxiv.org/pdf/2012.04915">[paper]</a>
-<li> Show, Attend and Distill: Knowledge Distillation via Attention-Based Feature Matching<a href="">[paper_ToBeUpdate]</a>
+<li> Show, Attend and Distill: Knowledge Distillation via Attention-Based Feature Matching<a href="https://arxiv.org/pdf/2102.02973">[paper]</a>
 <li>Anytime Inference with Distilled Hierarchical Neural Ensembles<a href="">[paper_ToBeUpdate]</a>
 <li>Stochastic Precision Ensemble: Self-Knowledge Distillation for Quantized Deep Neural Networks<a href="https://arxiv.org/pdf/2009.14502">[paper]</a>
 <li>Reinforced Multi-Teacher Selection for Knowledge Distillation<a href="https://arxiv.org/pdf/2012.06048">[paper]</a>
@@ -143,7 +144,7 @@ Language Processing<a href="https://www.aclweb.org/anthology/2020.acl-demos.2.pd
  
  <ul>
  <li>Spatio-Temporal Graph for Video Captioning With Knowledge Distillation <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf">[paper]</a>
- <li>Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf">[paper]</a>  <a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yin_Dreaming_to_Distill_CVPR_2020_supplemental.pdf">[supp]</a> 
+ <li>Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf">[paper]</a>  <a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yin_Dreaming_to_Distill_CVPR_2020_supplemental.pdf">[supp]</a> :heavy_check_mark:
  <li>Search to Distill: Pearls Are Everywhere but Not the Eyes <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Search_to_Distill_Pearls_Are_Everywhere_but_Not_the_Eyes_CVPR_2020_paper.pdf">[paper]</a>
  <li>Explaining Knowledge Distillation by Quantifying the Knowledge<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf">[paper]</a>
  <li>Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation From a Blackbox Model<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Neural_Networks_Are_More_Productive_Teachers_Than_Human_Raters_Active_CVPR_2020_paper.pdf">[paper]</a> <a href="https://www.youtube.com/watch?v=yBO8olcWHvE">[video]</a> 
@@ -210,7 +211,7 @@ Language Processing<a href="https://www.aclweb.org/anthology/2020.acl-demos.2.pd
 <ul>
 <li>FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction.<a href="https://www.aclweb.org/anthology/2020.emnlp-main.165.pdf">[paper]</a>:heavy_check_mark:
 <li>Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation. <a href="https://arxiv.org/pdf/2004.09813">[paper]</a>
-<li>Adversarial Self-Supervised Data-Free Distillation for Text Classification<a href="https://www.aclweb.org/anthology/2020.emnlp-main.499.pdf">[paper]</a>
+<li>Adversarial Self-Supervised Data-Free Distillation for Text Classification<a href="https://www.aclweb.org/anthology/2020.emnlp-main.499.pdf">[paper]</a> :heavy_check_mark:
 <li>Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data<a href="https://www.aclweb.org/anthology/2020.emnlp-main.277.pdf">[paper]</a>
 <li>Lifelong Language Knowledge Distillation.<a href="https://www.aclweb.org/anthology/2020.emnlp-main.233.pdf">[paper]</a>
 <li>Autoregressive Knowledge Distillation through Imitation Learning.<a href="https://www.aclweb.org/anthology/2020.emnlp-main.494.pdf">[paper]</a>
@@ -237,6 +238,20 @@ Language Processing<a href="https://www.aclweb.org/anthology/2020.acl-demos.2.pd
 <li>Ensemble Distillation for Robust Model Fusion in Federated Learning<a href="https://papers.nips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Supplemental.pdf">[supp]</a>:heavy_check_mark:
 <li>Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation<a href="https://papers.nips.cc/paper/2020/file/62d75fb2e3075506e8837d8f55021ab1-Paper.pdf">[paper]</a><a href="https://papers.nips.cc/paper/2020/file/62d75fb2e3075506e8837d8f55021ab1-Supplemental.zip">[supp]</a>
 </ul>
+
+
+
+### [ICML 2020](https://icml.cc/virtual/2020)
+
+<ul>
+<li>AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks <a href="https://arxiv.org/pdf/2006.08198">[paper]</a><a href="https://
+github.com/TAMU-VITA/AGD">[code]</a>
+<li>Feature-map-level Online Adversarial Knowledge Distillation<a href="https://arxiv.org/pdf/2002.01775">[paper]</a>
+<li>Dual-Path Distillation: A Unified Framework to Improve Black-Box Attacks<a href="http://proceedings.mlr.press/v119/zhang20o/zhang20o.pdf">[paper]</a>
+
+</ul>
+
+
 
 ### [NIPS 2019](https://papers.nips.cc/paper/2019)
 
@@ -291,6 +306,16 @@ Language Processing<a href="https://www.aclweb.org/anthology/2020.acl-demos.2.pd
 <li>FedMix: Approximation of Mixup under Mean Augmented Federated Learning<a href="https://openreview.net/pdf?id=Ogga20D2HO-">[paper]</a>
 <li>HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients <a href="https://openreview.net/pdf?id=TNkPBBYFkXg">[paper]</a>
 <li>Personalized Federated Learning with First Order Model Optimization<a href="https://openreview.net/pdf?id=ehJqJQk9cw">[paper]</a>
+</ul>
+
+### FL on [ICML 2020](https://icml.cc/virtual/2020/)
+<ul>
+<li>Federated Learning with Only Positive Labels<a href="http://proceedings.mlr.press/v119/yu20f/yu20f.pdf">[paper]</a>
+<li>FetchSGD: Communication-Efficient Federated Learning with Sketching<a href="http://proceedings.mlr.press/v119/rothchild20a/rothchild20a.pdf">[paper]</a>
+<li>SCAFFOLD: Stochastic Controlled Averaging for Federated Learning<a href="http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf">[paper]</a>
+<li>From Local SGD to Local Fixed-Point Methods for Federated Learning<a href="http://proceedings.mlr.press/v119/malinovskiy20a/malinovskiy20a.pdf">[paper]</a>
+<li>FedBoost: A Communication-Efficient Algorithm for Federated Learning<a href="http://proceedings.mlr.press/v119/hamer20a/hamer20a.pdf">[paper]</a>
+
 </ul>
 
 ### FD ML crossfield
