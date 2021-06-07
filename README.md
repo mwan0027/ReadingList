@@ -15,15 +15,15 @@ Reading Completion:
 | Conderence |    2021  |     2020  |    2019  |   2018   |
 | ---------- |-----------------------| -----------------------|-----------------------|-----------------------|
 | AAAI       | [AAAI2021](#AAAI-2021) |  [AAAI2020](#AAAI-2020)  |                       |                       |
-| ACL        |  NA                   |  [ACL2020](#ACL-2020)   |                       |                       |
-| SIGIR      |  NA                   |  [SIGIR2020](#SIGIR-2020) |   |   |
+| ACL        | [NAACL2021](#NAACL-2021)|  [ACL2020](#ACL-2020)   |                       |                       |
+| SIGIR      |  [SIGIR2021](#SIGIR-2021)|  [SIGIR2020](#SIGIR-2020) |   |   |
 | IJCAI      |  NA                   |  [IJCAI2020](#IJCAI-2020) |   |   |
 | ICLR       | [ICLR2021](#ICLR-2021)|  [ICLR2020](#ICLR-2020) |   |   |
 | NIPS       |  NA                   |  [NIPS2020](#NIPS-2020) | [NIPS2019](#NIPS-2019)  |   |
 | EMNLP      |  NA                   |  [EMNLP2020](#EMNLP-2020) |   |   |
 | ECCV       |  TBD                  |  [ECCV2020](#ECCV-2020) |   |   |
 | CVPR       | [CVPR2021](#CVPR-2021)|  [CVPR2020](#CVPR-2020) |   |   |
-| ICML       | NA |  [ICML2020](#ICML-2020) |   |   |
+| ICML       | [ICML2021](#ICML-2021)|  [ICML2020](#ICML-2020) |   |   |
 
 # How to Run this project
 <ul>
@@ -45,6 +45,40 @@ Reading Completion:
 
 
 ## Knowledge Distillation
+
+### [NAACL 2021](https://2021.naacl.org/)
+<ul>
+<li><a href="Noisy Self-Knowledge Distillation for Text Summarization"><a href="https://www.aclweb.org/anthology/2021.naacl-main.56/">[paper]</a>
+<li><a href="Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation"><a href="https://www.aclweb.org/anthology/2021.naacl-main.150/">[paper]</a>
+<li><a href="Data and Model Distillation as a Solution for Domain-transferable Fact Verification"><a href="https://www.aclweb.org/anthology/2021.naacl-main.360/">[paper]</a>
+<li><a href="Multi-Grained Knowledge Distillation for Named Entity Recognition"><a href="https://www.aclweb.org/anthology/2021.naacl-main.454/">[paper]</a>
+<li><a href="Sampling and Filtering of Neural Machine Translation Distillation Data [workshop]"><a href="https://www.aclweb.org/anthology/2021.naacl-srw.1/">[paper]</a>
+<li><a href="Modality-specific Distillation[workshop]"><a href="https://www.aclweb.org/anthology/2021.maiworkshop-1.7/">[paper]</a>
+<li><a href="View Distillation with Unlabeled Data for Extracting Adverse Drug Effects from User-Generated Data
+[workshop]"><a href="https://www.aclweb.org/anthology/2021.smm4h-1.2/">[paper]</a>
+</ul>
+
+
+### [ICML 2021](https://icml.cc/Conferences/2021)
+ <ul>
+    <li>KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation
+    <a href="">[paper tobe_update]</a>
+    <li>A statistical perspective on distillation<a href="">[paper tobe_update]</a>
+    <li>Training data-efficient image transformers & distillation through attention<a href="
+    ">[paper tobe_update]</a>
+    <li>Zero-Shot Knowledge Distillation from a Decision-Based Black-Box Model
+    <a href="">[paper tobe_update]</a>
+    <li>Cross-model Back-translated Distillation for Unsupervised Machine Translation
+    <a href="">[paper tobe_update]</a>
+    <li>Data-Free Knowledge Distillation for Heterogeneous Federated Learning
+    <a href="">[paper tobe_update]</a>
+    <li>Simultaneous Similarity-based Self-Distillation for Deep Metric Learning
+    <a href="">[paper tobe_update]</a>
+    <li>Model Distillation for Revenue Optimization: Interpretable Personalized Pricing
+    <a href="">[paper tobe_update]</a>
+
+</ul>
+
 
 ### [CVPR 2021](http://cvpr2021.thecvf.com/)
  <ul>
@@ -97,6 +131,19 @@ Reading Completion:
 <li>Stochastic Precision Ensemble: Self-Knowledge Distillation for Quantized Deep Neural Networks<a href="https://arxiv.org/pdf/2009.14502">[paper]</a>
 <li>Reinforced Multi-Teacher Selection for Knowledge Distillation<a href="https://arxiv.org/pdf/2012.06048">[paper]</a>
 <li> Deep Contextual Clinical Prediction with Reverse Distillation<a href="https://arxiv.org/pdf/2007.05611">[paper]</a>
+
+</ul>
+
+### [SIGIR 2021](https://sigir.org/sigir2021/accepted-papers/)
+<ul>
+    <li>Privileged Graph Distillation for Cold-start Recommendation
+    <a href=""> [paper tobe_update]</a>
+    <li>Dual-View Distilled BERT for Sentence Embedding
+    <a href="">[paper tobe_update]</a>
+    <li> Improving Bi-encoder Document Ranking Models with Two Rankers and Multi-teacher Distillation
+    <a href="">[paper tobe_update]</a>
+    <li> Accelerating Neural Architecture Search for Text Classification with Knowledge Distillation and Earth Mover's Distance<a href="">[paper tobe_update]</a>
+    <li> CIFDM: Continual and Interactive Feature Distillation forMulti-Label Stream Learning<a href="">[paper tobe_update]</a>
 
 </ul>
 
